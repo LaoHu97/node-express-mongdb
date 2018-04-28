@@ -1,5 +1,7 @@
 # About
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LaoHu97/node-express-mongdb.svg)](https://greenkeeper.io/)
+
 此项目是 nodejs + express + mongodb 构建API+操作数据库
 
 # 说明
